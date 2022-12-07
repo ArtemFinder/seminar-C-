@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Uzver\\Desktop\\Developer\\1 quarter\\Знакомство с языками программирования\\seminar2\\task10\\task10.csproj": {}
+    "C:\\Users\\Uzver\\Desktop\\Developer\\1 quarter\\Знакомство с языками программирования\\seminar-C-\\task10\\task10.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Uzver\\Desktop\\Developer\\1 quarter\\Знакомство с языками программирования\\seminar2\\task10\\task10.csproj": {
+    "C:\\Users\\Uzver\\Desktop\\Developer\\1 quarter\\Знакомство с языками программирования\\seminar-C-\\task10\\task10.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Uzver\\Desktop\\Developer\\1 quarter\\Знакомство с языками программирования\\seminar2\\task10\\task10.csproj",
+        "projectUniqueName": "C:\\Users\\Uzver\\Desktop\\Developer\\1 quarter\\Знакомство с языками программирования\\seminar-C-\\task10\\task10.csproj",
         "projectName": "task10",
-        "projectPath": "C:\\Users\\Uzver\\Desktop\\Developer\\1 quarter\\Знакомство с языками программирования\\seminar2\\task10\\task10.csproj",
+        "projectPath": "C:\\Users\\Uzver\\Desktop\\Developer\\1 quarter\\Знакомство с языками программирования\\seminar-C-\\task10\\task10.csproj",
         "packagesPath": "C:\\Users\\Uzver\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Uzver\\Desktop\\Developer\\1 quarter\\Знакомство с языками программирования\\seminar2\\task10\\obj\\",
+        "outputPath": "C:\\Users\\Uzver\\Desktop\\Developer\\1 quarter\\Знакомство с языками программирования\\seminar-C-\\task10\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Uzver\\AppData\\Roaming\\NuGet\\NuGet.Config"
