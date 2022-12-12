@@ -1,0 +1,15 @@
+C:\Users\Uzver\Desktop\Developer\1 quarter\Знакомство с языками программирования\seminar-C-\task23\bin\Debug\net7.0\task23.exe
+C:\Users\Uzver\Desktop\Developer\1 quarter\Знакомство с языками программирования\seminar-C-\task23\bin\Debug\net7.0\task23.deps.json
+C:\Users\Uzver\Desktop\Developer\1 quarter\Знакомство с языками программирования\seminar-C-\task23\bin\Debug\net7.0\task23.runtimeconfig.json
+C:\Users\Uzver\Desktop\Developer\1 quarter\Знакомство с языками программирования\seminar-C-\task23\bin\Debug\net7.0\task23.dll
+C:\Users\Uzver\Desktop\Developer\1 quarter\Знакомство с языками программирования\seminar-C-\task23\bin\Debug\net7.0\task23.pdb
+C:\Users\Uzver\Desktop\Developer\1 quarter\Знакомство с языками программирования\seminar-C-\task23\obj\Debug\net7.0\task23.csproj.AssemblyReference.cache
+C:\Users\Uzver\Desktop\Developer\1 quarter\Знакомство с языками программирования\seminar-C-\task23\obj\Debug\net7.0\task23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uzver\Desktop\Developer\1 quarter\Знакомство с языками программирования\seminar-C-\task23\obj\Debug\net7.0\task23.AssemblyInfoInputs.cache
+C:\Users\Uzver\Desktop\Developer\1 quarter\Знакомство с языками программирования\seminar-C-\task23\obj\Debug\net7.0\task23.AssemblyInfo.cs
+C:\Users\Uzver\Desktop\Developer\1 quarter\Знакомство с языками программирования\seminar-C-\task23\obj\Debug\net7.0\task23.csproj.CoreCompileInputs.cache
+C:\Users\Uzver\Desktop\Developer\1 quarter\Знакомство с языками программирования\seminar-C-\task23\obj\Debug\net7.0\task23.dll
+C:\Users\Uzver\Desktop\Developer\1 quarter\Знакомство с языками программирования\seminar-C-\task23\obj\Debug\net7.0\refint\task23.dll
+C:\Users\Uzver\Desktop\Developer\1 quarter\Знакомство с языками программирования\seminar-C-\task23\obj\Debug\net7.0\task23.pdb
+C:\Users\Uzver\Desktop\Developer\1 quarter\Знакомство с языками программирования\seminar-C-\task23\obj\Debug\net7.0\task23.genruntimeconfig.cache
+C:\Users\Uzver\Desktop\Developer\1 quarter\Знакомство с языками программирования\seminar-C-\task23\obj\Debug\net7.0\ref\task23.dll
