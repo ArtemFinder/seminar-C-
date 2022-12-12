@@ -14,4 +14,4 @@ Console.Write("Введите Z второй точки: ");
 double z2 = Convert.ToDouble(Console.ReadLine());
 
 double l = Math.Sqrt(Math.Pow(x1 - x2, 2) + Math.Pow(y1 - y2, 2) + Math.Pow(z1 - z2, 2));
-Console.WriteLine($"Расстояние между точками: {l}");
+Console.WriteLine($"Расстояние между точками: {Math.Round(l, 2)}");
