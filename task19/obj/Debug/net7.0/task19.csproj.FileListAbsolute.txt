@@ -1,0 +1,15 @@
+C:\Users\Uzver\Desktop\Developer\1 quarter\Знакомство с языками программирования\seminar-C-\task19\bin\Debug\net7.0\task19.exe
+C:\Users\Uzver\Desktop\Developer\1 quarter\Знакомство с языками программирования\seminar-C-\task19\bin\Debug\net7.0\task19.deps.json
+C:\Users\Uzver\Desktop\Developer\1 quarter\Знакомство с языками программирования\seminar-C-\task19\bin\Debug\net7.0\task19.runtimeconfig.json
+C:\Users\Uzver\Desktop\Developer\1 quarter\Знакомство с языками программирования\seminar-C-\task19\bin\Debug\net7.0\task19.dll
+C:\Users\Uzver\Desktop\Developer\1 quarter\Знакомство с языками программирования\seminar-C-\task19\bin\Debug\net7.0\task19.pdb
+C:\Users\Uzver\Desktop\Developer\1 quarter\Знакомство с языками программирования\seminar-C-\task19\obj\Debug\net7.0\task19.csproj.AssemblyReference.cache
+C:\Users\Uzver\Desktop\Developer\1 quarter\Знакомство с языками программирования\seminar-C-\task19\obj\Debug\net7.0\task19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uzver\Desktop\Developer\1 quarter\Знакомство с языками программирования\seminar-C-\task19\obj\Debug\net7.0\task19.AssemblyInfoInputs.cache
+C:\Users\Uzver\Desktop\Developer\1 quarter\Знакомство с языками программирования\seminar-C-\task19\obj\Debug\net7.0\task19.AssemblyInfo.cs
+C:\Users\Uzver\Desktop\Developer\1 quarter\Знакомство с языками программирования\seminar-C-\task19\obj\Debug\net7.0\task19.csproj.CoreCompileInputs.cache
+C:\Users\Uzver\Desktop\Developer\1 quarter\Знакомство с языками программирования\seminar-C-\task19\obj\Debug\net7.0\task19.dll
+C:\Users\Uzver\Desktop\Developer\1 quarter\Знакомство с языками программирования\seminar-C-\task19\obj\Debug\net7.0\refint\task19.dll
+C:\Users\Uzver\Desktop\Developer\1 quarter\Знакомство с языками программирования\seminar-C-\task19\obj\Debug\net7.0\task19.pdb
+C:\Users\Uzver\Desktop\Developer\1 quarter\Знакомство с языками программирования\seminar-C-\task19\obj\Debug\net7.0\task19.genruntimeconfig.cache
+C:\Users\Uzver\Desktop\Developer\1 quarter\Знакомство с языками программирования\seminar-C-\task19\obj\Debug\net7.0\ref\task19.dll
