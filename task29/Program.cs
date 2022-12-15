@@ -2,8 +2,7 @@
 // 8
 // 1, 2, 5, 7, 19, 6, 1, 33 -> [1, 2, 5, 7, 19, 6, 1, 33]
 Console.WriteLine("Спрашиваю, какое кол-во элементов?"); //Первая часть задачи выполнена :)
-int n = Convert.ToInt32(Console.ReadLine());
+int[] arrgh = new int[Convert.ToInt32(Console.ReadLine())];
 Console.WriteLine("Спрашиваю, какие сами элементы?"); //Вторая часть задачи выполнена :)
-int[] arrgh = new int[n];
-for (int i = 0; i < n; i++) arrgh[i] = Convert.ToInt32(Console.ReadLine());
+for (int i = 0; i < arrgh.Length; i++) arrgh[i] = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine($"[{string.Join(", ", arrgh)}]"); //Третья часть задачи выполнена
