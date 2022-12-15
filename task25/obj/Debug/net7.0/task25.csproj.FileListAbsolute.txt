@@ -1,0 +1,15 @@
+C:\Users\Uzver\Desktop\Developer\1 quarter\Знакомство с языками программирования\seminar-C-\task25\bin\Debug\net7.0\task25.exe
+C:\Users\Uzver\Desktop\Developer\1 quarter\Знакомство с языками программирования\seminar-C-\task25\bin\Debug\net7.0\task25.deps.json
+C:\Users\Uzver\Desktop\Developer\1 quarter\Знакомство с языками программирования\seminar-C-\task25\bin\Debug\net7.0\task25.runtimeconfig.json
+C:\Users\Uzver\Desktop\Developer\1 quarter\Знакомство с языками программирования\seminar-C-\task25\bin\Debug\net7.0\task25.dll
+C:\Users\Uzver\Desktop\Developer\1 quarter\Знакомство с языками программирования\seminar-C-\task25\bin\Debug\net7.0\task25.pdb
+C:\Users\Uzver\Desktop\Developer\1 quarter\Знакомство с языками программирования\seminar-C-\task25\obj\Debug\net7.0\task25.csproj.AssemblyReference.cache
+C:\Users\Uzver\Desktop\Developer\1 quarter\Знакомство с языками программирования\seminar-C-\task25\obj\Debug\net7.0\task25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uzver\Desktop\Developer\1 quarter\Знакомство с языками программирования\seminar-C-\task25\obj\Debug\net7.0\task25.AssemblyInfoInputs.cache
+C:\Users\Uzver\Desktop\Developer\1 quarter\Знакомство с языками программирования\seminar-C-\task25\obj\Debug\net7.0\task25.AssemblyInfo.cs
+C:\Users\Uzver\Desktop\Developer\1 quarter\Знакомство с языками программирования\seminar-C-\task25\obj\Debug\net7.0\task25.csproj.CoreCompileInputs.cache
+C:\Users\Uzver\Desktop\Developer\1 quarter\Знакомство с языками программирования\seminar-C-\task25\obj\Debug\net7.0\task25.dll
+C:\Users\Uzver\Desktop\Developer\1 quarter\Знакомство с языками программирования\seminar-C-\task25\obj\Debug\net7.0\refint\task25.dll
+C:\Users\Uzver\Desktop\Developer\1 quarter\Знакомство с языками программирования\seminar-C-\task25\obj\Debug\net7.0\task25.pdb
+C:\Users\Uzver\Desktop\Developer\1 quarter\Знакомство с языками программирования\seminar-C-\task25\obj\Debug\net7.0\task25.genruntimeconfig.cache
+C:\Users\Uzver\Desktop\Developer\1 quarter\Знакомство с языками программирования\seminar-C-\task25\obj\Debug\net7.0\ref\task25.dll
