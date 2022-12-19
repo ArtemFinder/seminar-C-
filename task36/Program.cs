@@ -4,10 +4,10 @@
 Random rnd = new Random();
 Console.WriteLine("Введите длину массива: ");
 int[] arrgh = new int[Convert.ToInt32(Console.ReadLine())];
-int nechetko = 0;
+int sum_nechetnih = 0;
 for (int i = 0; i < arrgh.Length; i++)
 {
     arrgh[i] = rnd.Next(-99, 100);
-    if (i % 2 == 0) nechetko += arrgh[i]; //не понял условие задачи. Задана сумма нечётных позиции,а в примере сумма чётных. Возможно имелось ввиду нумерация массива с нуля, но в задании этого не сказано. Чтоб исправить на чётные, надо поменять знак в условии этой строки.
+    if (i % 2 != 0) sum_nechetnih += arrgh[i];
 }
-Console.WriteLine($"В массиве [{string.Join(", ", arrgh)}] сумма нечётных чисел {nechetko}");
+Console.WriteLine($"В массиве [{string.Join(", ", arrgh)}] сумма нечётных позиций в массиве {sum_nechetnih}");
