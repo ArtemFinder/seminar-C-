@@ -1,0 +1,15 @@
+C:\Users\Uzver\Desktop\Developer\1 quarter\Знакомство с языками программирования\seminar-C-\task58\obj\Debug\net7.0\task58.csproj.AssemblyReference.cache
+C:\Users\Uzver\Desktop\Developer\1 quarter\Знакомство с языками программирования\seminar-C-\task58\obj\Debug\net7.0\task58.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uzver\Desktop\Developer\1 quarter\Знакомство с языками программирования\seminar-C-\task58\obj\Debug\net7.0\task58.AssemblyInfoInputs.cache
+C:\Users\Uzver\Desktop\Developer\1 quarter\Знакомство с языками программирования\seminar-C-\task58\obj\Debug\net7.0\task58.AssemblyInfo.cs
+C:\Users\Uzver\Desktop\Developer\1 quarter\Знакомство с языками программирования\seminar-C-\task58\obj\Debug\net7.0\task58.csproj.CoreCompileInputs.cache
+C:\Users\Uzver\Desktop\Developer\1 quarter\Знакомство с языками программирования\seminar-C-\task58\bin\Debug\net7.0\task58.exe
+C:\Users\Uzver\Desktop\Developer\1 quarter\Знакомство с языками программирования\seminar-C-\task58\bin\Debug\net7.0\task58.deps.json
+C:\Users\Uzver\Desktop\Developer\1 quarter\Знакомство с языками программирования\seminar-C-\task58\bin\Debug\net7.0\task58.runtimeconfig.json
+C:\Users\Uzver\Desktop\Developer\1 quarter\Знакомство с языками программирования\seminar-C-\task58\bin\Debug\net7.0\task58.dll
+C:\Users\Uzver\Desktop\Developer\1 quarter\Знакомство с языками программирования\seminar-C-\task58\bin\Debug\net7.0\task58.pdb
+C:\Users\Uzver\Desktop\Developer\1 quarter\Знакомство с языками программирования\seminar-C-\task58\obj\Debug\net7.0\task58.dll
+C:\Users\Uzver\Desktop\Developer\1 quarter\Знакомство с языками программирования\seminar-C-\task58\obj\Debug\net7.0\refint\task58.dll
+C:\Users\Uzver\Desktop\Developer\1 quarter\Знакомство с языками программирования\seminar-C-\task58\obj\Debug\net7.0\task58.pdb
+C:\Users\Uzver\Desktop\Developer\1 quarter\Знакомство с языками программирования\seminar-C-\task58\obj\Debug\net7.0\task58.genruntimeconfig.cache
+C:\Users\Uzver\Desktop\Developer\1 quarter\Знакомство с языками программирования\seminar-C-\task58\obj\Debug\net7.0\ref\task58.dll
