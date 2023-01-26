@@ -1,0 +1,15 @@
+C:\Users\Uzver\Desktop\Developer\1 quarter\Знакомство с языками программирования\seminar-C-\final_control_work\bin\Debug\net7.0\final_control_work.exe
+C:\Users\Uzver\Desktop\Developer\1 quarter\Знакомство с языками программирования\seminar-C-\final_control_work\bin\Debug\net7.0\final_control_work.deps.json
+C:\Users\Uzver\Desktop\Developer\1 quarter\Знакомство с языками программирования\seminar-C-\final_control_work\bin\Debug\net7.0\final_control_work.runtimeconfig.json
+C:\Users\Uzver\Desktop\Developer\1 quarter\Знакомство с языками программирования\seminar-C-\final_control_work\bin\Debug\net7.0\final_control_work.dll
+C:\Users\Uzver\Desktop\Developer\1 quarter\Знакомство с языками программирования\seminar-C-\final_control_work\bin\Debug\net7.0\final_control_work.pdb
+C:\Users\Uzver\Desktop\Developer\1 quarter\Знакомство с языками программирования\seminar-C-\final_control_work\obj\Debug\net7.0\final_control_work.csproj.AssemblyReference.cache
+C:\Users\Uzver\Desktop\Developer\1 quarter\Знакомство с языками программирования\seminar-C-\final_control_work\obj\Debug\net7.0\final_control_work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uzver\Desktop\Developer\1 quarter\Знакомство с языками программирования\seminar-C-\final_control_work\obj\Debug\net7.0\final_control_work.AssemblyInfoInputs.cache
+C:\Users\Uzver\Desktop\Developer\1 quarter\Знакомство с языками программирования\seminar-C-\final_control_work\obj\Debug\net7.0\final_control_work.AssemblyInfo.cs
+C:\Users\Uzver\Desktop\Developer\1 quarter\Знакомство с языками программирования\seminar-C-\final_control_work\obj\Debug\net7.0\final_control_work.csproj.CoreCompileInputs.cache
+C:\Users\Uzver\Desktop\Developer\1 quarter\Знакомство с языками программирования\seminar-C-\final_control_work\obj\Debug\net7.0\final_control_work.dll
+C:\Users\Uzver\Desktop\Developer\1 quarter\Знакомство с языками программирования\seminar-C-\final_control_work\obj\Debug\net7.0\refint\final_control_work.dll
+C:\Users\Uzver\Desktop\Developer\1 quarter\Знакомство с языками программирования\seminar-C-\final_control_work\obj\Debug\net7.0\final_control_work.pdb
+C:\Users\Uzver\Desktop\Developer\1 quarter\Знакомство с языками программирования\seminar-C-\final_control_work\obj\Debug\net7.0\final_control_work.genruntimeconfig.cache
+C:\Users\Uzver\Desktop\Developer\1 quarter\Знакомство с языками программирования\seminar-C-\final_control_work\obj\Debug\net7.0\ref\final_control_work.dll
