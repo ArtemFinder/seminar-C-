@@ -25,7 +25,7 @@ void copyArray(string[] array, string[] array2) //копирование мас�
 Console.Clear();
 Console.WriteLine($"Введите длину массива");
 string[] array = new string[Convert.ToInt32(Console.ReadLine())];
-Console.WriteLine($"Через Enter введите в количестве {array.Length} шт.");
+Console.WriteLine($"Через Enter введите значения в количестве {array.Length} шт.");
 inputArray(array);
 
 Console.WriteLine("В массиве: ");
